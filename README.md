@@ -5,5 +5,6 @@ See these links for more information:
   * https://stackoverflow.com/questions/26804421/python-project-directory-structure-pytest-trouble
 
 This was also quite useful:
-    * https://kbroman.org/github_tutorial/pages/init.html
+
+  * https://kbroman.org/github_tutorial/pages/init.html
     
