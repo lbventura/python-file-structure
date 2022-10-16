@@ -1,4 +1,7 @@
-from generate_random_dataframe import generate_random_dataframe
+from generate_random_dataframe import *
 
 if __name__ == "__main__":
-    print(generate_random_dataframe())
+    r1 = RandomDataFrame()
+    print(r1.metadata)
+    print("\n")
+    print(r1.generate_random_dataframe())
